@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+matplotlib
+numpy
+pandas
+jupyter
+tensorboard
+huggingface_hub
+transformers
+diffusers
